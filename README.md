@@ -1,5 +1,7 @@
 # awesome-education
-Learning resources (web, references, shops etc.)
+Learning resources (web, references, shops etc.) 
+
+
 
 ## general 
 
@@ -13,6 +15,6 @@ Learning resources (web, references, shops etc.)
 #### ancient greek literature
 
 
-#### cinematography
+#### cinematography <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><!-- Icon from Tabler Icons by Paweł Kuna - https://github.com/tabler/tabler-icons/blob/master/LICENSE --><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zm4-2v16m8-16v16M4 8h4m-4 8h4m-4-4h16m-4-4h4m-4 8h4"/></svg>
 
 [IMDB](https://www.imdb.com/?ref_=nv_home)
