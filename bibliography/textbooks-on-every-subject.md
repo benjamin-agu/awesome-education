@@ -14,6 +14,8 @@
 
 ## chemistry
 
+- Brown, T. E., LeMay, H. E., Bursten, B. E., Murphy, C. J., Woodward, P. M., & Stoltzfus, M. E. (2023). Chemistry: The Central Science (15th ed.). Pearson
+
 ## chess
 
 ## philosophy 
