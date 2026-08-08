@@ -48,6 +48,8 @@ McGee, H. (2004). On food and cooking: The science and lore of the kitchen. Scri
 
 ## geography
 
+## journalism
+
 ## law
 
 
@@ -61,6 +63,10 @@ McGee, H. (2004). On food and cooking: The science and lore of the kitchen. Scri
 ### histology
 - Histology: A text and atlas: With correlated cell and molecular biology | Pawlina, W. (2024). Histology: A text and atlas: With correlated cell and molecular biology (9th ed.). Lippincott Williams & Wilkins.
 - Junqueira's basic histology: Text and atlas | Mescher, A. L. (2024). Junqueira's basic histology: Text and atlas (17th ed.). McGraw Hill.
+
+### pathology
+
+- Kumar, V., Abbas, A. K., Aster, J. C., Debnath, J., & Das, A. (2025). Robbins, Cotran & Kumar pathologic basis of disease (11th ed.). Elsevier.
 
 ### physiology
 - Ganong’s review of medical physiology | Barrett, K. E., Barman, S. M., Brooks, H. L., & Yuan, J. X.-J. (2025). Ganong’s review of medical physiology (27th ed.). McGraw Hill.
@@ -76,7 +82,7 @@ McGee, H. (2004). On food and cooking: The science and lore of the kitchen. Scri
 
 ## linguistics
 
-### grammar
+### grammar, dictionaries 
 
 #### french
 - La grande grammaire du français | Abeillé, A., & Godard, D. (Eds.). (2021). La grande grammaire du français (2 vols.). Actes Sud; Imprimerie nationale Éditions.
