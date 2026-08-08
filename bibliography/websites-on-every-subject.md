@@ -30,11 +30,18 @@
 
 ### world history
 
-[World History Encyclopedia](https://www.worldhistory.org/) | Their own words: "World History Encyclopedia is a non-profit organisation that publishes free, high-quality historical content to advance historical literacy and improve history education worldwide. We believe that deeper knowledge of our interconnected human past creates curious, open-minded, and democratic societies."
+- [World History Encyclopedia](https://www.worldhistory.org/) | Their own words: "World History Encyclopedia is a non-profit organisation that publishes free, high-quality historical content to advance historical literacy and improve history education worldwide. We believe that deeper knowledge of our interconnected human past creates curious, open-minded, and democratic societies."
 
 ## language learning
 
-- [Duolingo](https://www.duolingo.com/) | 
+- [Duolingo](https://www.duolingo.com/) |
+
+## libraries
+
+- [Embassy of the Free Mind](https://www.embassyofthefreemind.com/about-the-embassy/) | The Embassy of the Free Mind is a museum, library, and hub for free thinking, among other things, inspired by the philosophy of the Bibliotheca Philosophica Hermetica Collection.
+- [Source Libraryf](https://sourcelibrary.org/) | 
+
+
 
 ## royale
 
