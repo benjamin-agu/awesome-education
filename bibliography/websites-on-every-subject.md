@@ -51,7 +51,8 @@
 ## scientific journals
 
 - [nature](https://www.nature.com/) | 
-- [The New England Journal of Medicine](https://www.nejm.org/) | 
+- [The New England Journal of Medicine](https://www.nejm.org/) |
+- [Journal of Archaeological Science](https://www.sciencedirect.com/journal/journal-of-archaeological-science)
 
 ## social networks
 
