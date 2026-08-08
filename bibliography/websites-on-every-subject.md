@@ -2,9 +2,9 @@
 
 ## cinema
 
-### [IMDB](https://www.imdb.com/) | 
+- [IMDB](https://www.imdb.com/) | 
 
-### [TSPDT](https://theyshootpictures.com/) | 
+- [TSPDT](https://theyshootpictures.com/) | 
 
 ## dictionaries 
 
