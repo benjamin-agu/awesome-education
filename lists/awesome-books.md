@@ -7,8 +7,8 @@
    - Proust, M. (1992–1993). À la recherche du temps perdu (7 vols.). Le Livre de Poche.
 
 2. *Преступле́ние и наказа́ние* (Fyodor Dostoyevsky, 1866-67)
-  - Достоевский, Ф. М. (2008). Братья Карамазовы (В. Е. Ветловская, ред.; 2 vols.). Наука.
-  - Достоевский, Ф. М. (2022). Братья Карамазовы. Азбука.
+   - Достоевский, Ф. М. (2008). Братья Карамазовы (В. Е. Ветловская, ред.; 2 vols.). Наука.
+   - Достоевский, Ф. М. (2022). Братья Карамазовы. Азбука.
 
 3.  *Clarissa* (Samuel Richardson, 1748)
    - Richardson, S. (1985). Clarissa, or, The history of a young lady (A. Ross, ed.). Penguin Books.
