@@ -48,14 +48,25 @@
 
 ## psychology
 
-## language learning
+## language
+
+### vocabularies, words
+
+[The Bridge](https://bridge.haverford.edu/) | free digital tool that helps students and teachers create custom vocabulary lists for Greek and Latin texts
+
+### stadistics
+
+[Corpora and Language Statistics](https://cls.corpora.uni-leipzig.de/en) | "The Leipzig Corpora Collection provides corpora in different languages using the same format and comparable sources."
+
+### language learning
 
 - [Duolingo](https://www.duolingo.com/) |
 
 ## libraries
 
 - [Embassy of the Free Mind](https://www.embassyofthefreemind.com/about-the-embassy/) | The Embassy of the Free Mind is a museum, library, and hub for free thinking, among other things, inspired by the philosophy of the Bibliotheca Philosophica Hermetica Collection.
-- [Source Libraryf](https://sourcelibrary.org/) | 
+- [Source Libraryf](https://sourcelibrary.org/) |
+- [Dickinson College Commentaries](https://dcc.dickinson.edu/) | The Dickinson College Commentaries (DCC) is an open-access digital platform providing annotated Latin and Greek texts, featuring core vocabulary lists, grammatical resources, and multimedia support.
 
 ## royale
 
