@@ -2,7 +2,7 @@
 
 ## archeology
 
--[Internet Archeology](https://intarch.ac.uk/) | 
+- [Internet Archeology](https://intarch.ac.uk/) | 
 - [World Archeology](https://www.world-archaeology.com/)
 
 ## astronomy
@@ -73,7 +73,7 @@
 - [The Greatest Books](https://thegreatestbooks.org/) | 
 
 ### libraries
-
+- [The Anarchist Library](https://theanarchistlibrary.org/special/index) | 
 - [Embassy of the Free Mind](https://www.embassyofthefreemind.com/about-the-embassy/) | The Embassy of the Free Mind is a museum, library, and hub for free thinking, among other things, inspired by the philosophy of the Bibliotheca Philosophica Hermetica Collection.
 - [Source Libraryf](https://sourcelibrary.org/) |
 - [Dickinson College Commentaries](https://dcc.dickinson.edu/) | The Dickinson College Commentaries (DCC) is an open-access digital platform providing annotated Latin and Greek texts, featuring core vocabulary lists, grammatical resources, and multimedia support.
