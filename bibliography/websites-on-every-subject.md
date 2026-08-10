@@ -66,7 +66,13 @@
 
 - [Duolingo](https://www.duolingo.com/) |
 
-## libraries
+## libraries, literature
+
+### books
+
+- [The Greatest Books](https://thegreatestbooks.org/) | 
+
+### libraries
 
 - [Embassy of the Free Mind](https://www.embassyofthefreemind.com/about-the-embassy/) | The Embassy of the Free Mind is a museum, library, and hub for free thinking, among other things, inspired by the philosophy of the Bibliotheca Philosophica Hermetica Collection.
 - [Source Libraryf](https://sourcelibrary.org/) |
