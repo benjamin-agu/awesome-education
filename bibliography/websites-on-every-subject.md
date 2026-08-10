@@ -2,9 +2,13 @@
 
 ## archeology
 
+-[Internet Archeology](https://intarch.ac.uk/) | 
+- [World Archeology](https://www.world-archaeology.com/)
+
 ## astronomy
 
-
+- [NASA](https://www.nasa.gov/) |
+- 
 
 ## biology
 
@@ -72,6 +76,8 @@
 
 - [FMHY](https://fmhy.net/) | On their own words: "The largest collection of free stuff on the internet!"
 - [Internet Archive](https://archive.org/) | Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more.
+- [YouTube](https://www.youtube.com/) |
+- [GitHub](https://www.github.com/) | 
 
 ## scientific journals
 
