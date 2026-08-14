@@ -73,10 +73,25 @@
 - [The Greatest Books](https://thegreatestbooks.org/) | 
 
 ### libraries
+
+- [HathiTrust](https://www.hathitrust.org/) |
+- [Национальный корпус русского языка](https://ruscorpora.ru/)
+- [Bibliothèque nationale de France](https://catalogue.bnf.fr/index.do)
 - [The Anarchist Library](https://theanarchistlibrary.org/special/index) | 
 - [Embassy of the Free Mind](https://www.embassyofthefreemind.com/about-the-embassy/) | The Embassy of the Free Mind is a museum, library, and hub for free thinking, among other things, inspired by the philosophy of the Bibliotheca Philosophica Hermetica Collection.
 - [Source Libraryf](https://sourcelibrary.org/) |
 - [Dickinson College Commentaries](https://dcc.dickinson.edu/) | The Dickinson College Commentaries (DCC) is an open-access digital platform providing annotated Latin and Greek texts, featuring core vocabulary lists, grammatical resources, and multimedia support.
+-[Biblioteca Digital de la Real Academia Española](https://www.rae.es/biblioteca-digital) |
+- [europeana](https://www.europeana.eu/) |
+- [Göttingen Register of Electronic Texts in Indian Languages](https://gretil.sub.uni-goettingen.de/gretil.html#top)
+- [World Digital Library](https://www.loc.gov/collections/world-digital-library/about-this-collection/)
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [Wikisource](https://www.wikisource.org)
+- [Biblioteca Nacional de España](https://bnedigital.bne.es/bd/es/simple)
+- [Chinese Text Project](https://ctext.org/) |
+- [Imwerden: Электронная библиотека Андрея Никитина-Перенского](https://imwerden.de/)
+- [TextGrid Repository](https://textgridrep.org/) | 
+- 
 
 ## royale
 
