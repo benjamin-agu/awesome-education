@@ -2,4 +2,4 @@
 
 ## language learning
 
-- [Duolingo](https//:duolingo.com/)
+- [Duolingo](https://www.duolingo.com/learn)
