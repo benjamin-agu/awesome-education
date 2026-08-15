@@ -2,8 +2,6 @@
 
 ## archeology
 
-# Arqueología: instituciones, revistas y bases de datos de referencia mundial
-
 - [American Journal of Archaeology (AJA)](https://www.ajaonline.org/) | The peer-reviewed journal of the Archaeological Institute of America, one of the most authoritative publications in the field since 1885. | La revista arbitrada del Archaeological Institute of America, una de las publicaciones más autorizadas del campo desde 1885.
 - [American School of Classical Studies at Athens (ASCSA)](https://www.ascsa.edu.gr/) | A leading American research institution for the study of Greek archaeology, history, and civilization, operating major excavations such as the Athenian Agora. | Una institución estadounidense de referencia para el estudio de la arqueología, historia y civilización griegas, que dirige excavaciones importantes como el Ágora de Atenas.
 - [Antiquity](https://www.antiquity.ac.uk/) | An independent, peer-reviewed journal covering world archaeology, published continuously since 1927. | Una revista independiente y arbitrada sobre arqueología mundial, publicada de forma continua desde 1927.
@@ -38,39 +36,187 @@
 
 ## astronomy
 
-- [NASA](https://www.nasa.gov/) |
-- 
+
+- [ALMA Observatory (Atacama Large Millimeter/submillimeter Array)](https://www.almaobservatory.org/) | An international radio telescope array in Chile, one of the most powerful facilities for observing the coldest objects in the universe. | Un conjunto internacional de radiotelescopios en Chile, una de las instalaciones más potentes para observar los objetos más fríos del universo.
+- [American Astronomical Society (AAS)](https://aas.org/) | The major professional organization for astronomers in North America, publisher of leading journals and organizer of key conferences. | La principal organización profesional de astrónomos de Norteamérica, editora de revistas de referencia y organizadora de congresos clave.
+- [Astronomy & Astrophysics (A&A)](https://www.aanda.org/) | A leading peer-reviewed European journal covering all areas of astronomy and astrophysics. | Una destacada revista europea arbitrada que cubre todas las áreas de la astronomía y la astrofísica.
+- [Astronomy Picture of the Day (APOD)](https://apod.nasa.gov/) | A NASA-hosted daily feature presenting a professional astronomical image or photograph with a brief scientific explanation. | Una sección diaria alojada por la NASA que presenta una imagen o fotografía astronómica profesional con una breve explicación científica.
+- [Chandra X-ray Observatory](https://chandra.harvard.edu/) | NASA's flagship X-ray telescope mission, operated by the Smithsonian Astrophysical Observatory, dedicated to observing high-energy phenomena. | La misión insignia de telescopio de rayos X de la NASA, operada por el Smithsonian Astrophysical Observatory, dedicada a observar fenómenos de alta energía.
+- [European Southern Observatory (ESO)](https://www.eso.org/) | An intergovernmental research organization operating some of the world's most advanced ground-based observatories in Chile, including the Very Large Telescope. | Una organización intergubernamental de investigación que opera algunos de los observatorios terrestres más avanzados del mundo en Chile, incluido el Very Large Telescope.
+- [European Space Agency (ESA)](https://www.esa.int/) | Europe's intergovernmental space agency, coordinating space exploration missions, satellite programs, and astronomical research across member states. | La agencia espacial intergubernamental de Europa, que coordina misiones de exploración espacial, programas de satélites e investigación astronómica entre sus estados miembros.
+- [Gaia Archive (ESA)](https://gea.esac.esa.int/archive/) | The public data archive of ESA's Gaia mission, providing the most precise astrometric map ever made of the Milky Way. | El archivo público de datos de la misión Gaia de la ESA, que ofrece el mapa astrométrico más preciso jamás elaborado de la Vía Láctea.
+- [Harvard-Smithsonian Center for Astrophysics (CfA)](https://www.cfa.harvard.edu/) | A joint research institution combining the Harvard College Observatory and the Smithsonian Astrophysical Observatory, a major center of astronomical research. | Una institución de investigación conjunta que reúne el Harvard College Observatory y el Smithsonian Astrophysical Observatory, un importante centro de investigación astronómica.
+- [Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/) | India's national space agency, responsible for the country's satellite, lunar, and planetary exploration missions. | La agencia espacial nacional de la India, responsable de las misiones satelitales, lunares y de exploración planetaria del país.
+- [International Astronomical Union (IAU)](https://www.iau.org/) | The internationally recognized authority for assigning names to celestial bodies and defining astronomical nomenclature and standards. | La autoridad reconocida internacionalmente para asignar nombres a cuerpos celestes y definir la nomenclatura y los estándares astronómicos.
+- [James Webb Space Telescope (JWST)](https://webb.nasa.gov/) | NASA's official site for the James Webb Space Telescope, the largest and most powerful space observatory ever launched. | El sitio oficial de la NASA sobre el telescopio espacial James Webb, el observatorio espacial más grande y potente jamás lanzado.
+- [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/) | Japan's national space agency, conducting satellite, planetary, and astronomical research and exploration missions. | La agencia espacial nacional de Japón, que realiza misiones de investigación y exploración con satélites, planetas y astronomía.
+- [Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) | A NASA research center managing many of the agency's robotic missions to explore the solar system and beyond. | Un centro de investigación de la NASA que gestiona muchas de las misiones robóticas de la agencia para explorar el sistema solar y más allá.
+- [Keck Observatory](https://www.keckobservatory.org/) | Home to two of the largest optical and infrared telescopes in the world, located atop Maunakea, Hawaiʻi. | Sede de dos de los mayores telescopios ópticos e infrarrojos del mundo, ubicados en la cima de Maunakea, Hawái.
+- [Max Planck Institute for Astronomy (MPIA)](https://www.mpia.de/) | A leading German research institute conducting observational and theoretical astrophysics, from planet formation to cosmology. | Un destacado instituto alemán de investigación que realiza astrofísica observacional y teórica, desde la formación de planetas hasta la cosmología.
+- [Monthly Notices of the Royal Astronomical Society (MNRAS)](https://academic.oup.com/mnras) | One of the world's leading peer-reviewed journals in astronomy and astrophysics, published by the Royal Astronomical Society. | Una de las principales revistas arbitradas del mundo en astronomía y astrofísica, publicada por la Royal Astronomical Society.
+- [NASA (National Aeronautics and Space Administration)](https://www.nasa.gov/) | The United States' civilian space agency, leading space exploration, astronomy, and planetary science research. | La agencia espacial civil de Estados Unidos, líder en exploración espacial, astronomía e investigación de ciencia planetaria.
+- [NASA Astrophysics Data System (ADS)](https://ui.adsabs.harvard.edu/) | A digital library and search platform providing access to the full astronomical and physics research literature. | Una biblioteca digital y plataforma de búsqueda que da acceso a toda la literatura de investigación en astronomía y física.
+- [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) | An online astronomical database aggregating confirmed exoplanet discoveries and their associated data. | Una base de datos astronómica en línea que reúne los descubrimientos confirmados de exoplanetas y sus datos asociados.
+- [NASA/IPAC Extragalactic Database (NED)](https://ned.ipac.caltech.edu/) | A comprehensive database of positions, redshifts, and multiwavelength data for extragalactic objects. | Una base de datos exhaustiva de posiciones, corrimientos al rojo y datos multibanda de objetos extragalácticos.
+- [Nature Astronomy](https://www.nature.com/natastron/) | A leading peer-reviewed journal from the Nature portfolio covering the full breadth of astronomy, astrophysics, and planetary science. | Una destacada revista arbitrada del grupo Nature que cubre toda la amplitud de la astronomía, la astrofísica y la ciencia planetaria.
+- [Royal Astronomical Society (RAS)](https://ras.ac.uk/) | A UK learned society for astronomy and geophysics, publishing leading journals and supporting research since 1820. | Una sociedad científica británica de astronomía y geofísica, editora de revistas de referencia y promotora de la investigación desde 1820.
+- [Royal Observatory Greenwich](https://www.rmg.co.uk/royal-observatory) | The historic home of the Prime Meridian and Greenwich Mean Time, now a public astronomy museum and research heritage site. | La sede histórica del meridiano de Greenwich y la hora media de Greenwich, hoy un museo público de astronomía y sitio de patrimonio científico.
+- [SIMBAD Astronomical Database (Centre de Données astronomiques de Strasbourg)](https://simbad.u-strasbg.fr/simbad/) | A reference database of astronomical objects outside the solar system, with identifications, measurements, and bibliography. | Una base de datos de referencia de objetos astronómicos fuera del sistema solar, con identificaciones, mediciones y bibliografía.
+- [Sky & Telescope](https://skyandtelescope.org/) | A long-running and widely respected magazine and website covering astronomy news, observing guides, and equipment reviews. | Una revista y sitio web de gran trayectoria y prestigio que cubre noticias de astronomía, guías de observación y reseñas de equipos.
+- [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/) | One of the most influential astronomical surveys ever conducted, producing detailed three-dimensional maps of the universe. | Uno de los relevamientos astronómicos más influyentes jamás realizados, que produce mapas tridimensionales detallados del universo.
+- [Space Telescope Science Institute (STScI) / HubbleSite](https://science.nasa.gov/mission/hubble/) | The science operations center for the Hubble and James Webb space telescopes, sharing discoveries and imagery with the public. | El centro de operaciones científicas de los telescopios espaciales Hubble y James Webb, que difunde descubrimientos e imágenes al público.
+- [The Astrophysical Journal (ApJ)](https://iopscience.iop.org/journal/0004-637X) | One of the most prestigious peer-reviewed journals in astrophysics, published on behalf of the American Astronomical Society. | Una de las revistas arbitradas más prestigiosas de la astrofísica, publicada en representación de la American Astronomical Society.
+- [Vera C. Rubin Observatory](https://rubinobservatory.org/) | A Chilean observatory conducting the Legacy Survey of Space and Time, set to produce the most detailed time-lapse map of the universe. | Un observatorio en Chile que realiza el Legacy Survey of Space and Time, destinado a producir el mapa dinámico más detallado del universo jamás elaborado.
+- [arXiv – Astrophysics (astro-ph)](https://arxiv.org/archive/astro-ph) | An open-access preprint repository where astronomers share research papers ahead of formal peer review. | Un repositorio de acceso abierto de preprints donde los astrónomos comparten artículos de investigación antes de la revisión formal por pares.
 
 ## biology
 
 ## chemistry
 
-
+- [American Chemical Society (ACS)](https://www.acs.org/) | The world's largest scientific society, publishing dozens of leading chemistry journals and setting professional standards in the field. | La mayor sociedad científica del mundo, editora de decenas de revistas de química de referencia y promotora de estándares profesionales en el campo.
+- [Angewandte Chemie](https://onlinelibrary.wiley.com/journal/15213773) | One of the most prestigious chemistry journals worldwide, published by the German Chemical Society (GDCh) in both German and English editions. | Una de las revistas de química más prestigiosas del mundo, publicada por la Sociedad Química Alemana (GDCh) en ediciones en alemán e inglés.
+- [Beilstein Journal of Organic Chemistry](https://www.beilstein-journals.org/bjoc/) | A well-regarded open-access journal in organic chemistry, published by the Beilstein-Institut, a foundation with a long history in chemical documentation. | Una respetada revista de acceso abierto en química orgánica, publicada por el Beilstein-Institut, una fundación con una larga trayectoria en documentación química.
+- [Cambridge Crystallographic Data Centre (CCDC)](https://www.ccdc.cam.ac.uk/) | The organization behind the Cambridge Structural Database, the world's leading repository of small-molecule crystal structures. | La organización responsable de la Cambridge Structural Database, el principal repositorio mundial de estructuras cristalinas de moléculas pequeñas.
+- [ChemRxiv](https://chemrxiv.org/) | An open-access preprint server for chemistry, supported by major chemical societies, allowing early sharing of research before peer review. | Un servidor de preprints de acceso abierto para química, respaldado por importantes sociedades químicas, que permite compartir investigaciones antes de la revisión por pares.
+- [Chemistry World](https://www.chemistryworld.com/) | The Royal Society of Chemistry's magazine, covering chemistry news, research highlights, and career resources for a global audience. | La revista de la Royal Society of Chemistry, que cubre noticias, investigaciones destacadas y recursos profesionales de química para una audiencia global.
+- [ChemSpider](https://www.chemspider.com/) | A free chemical structure database from the Royal Society of Chemistry, aggregating information on tens of millions of compounds. | Una base de datos gratuita de estructuras químicas de la Royal Society of Chemistry, que reúne información sobre decenas de millones de compuestos.
+- [Chemical Society of Japan (CSJ)](https://www.chemistry.or.jp/) | Japan's leading chemical society, publishing research journals and supporting chemistry education and research nationwide. | La principal sociedad química de Japón, editora de revistas de investigación y promotora de la educación y la investigación química en todo el país.
+- [Chinese Chemical Society (CCS)](https://www.chemsoc.org.cn/) | China's national chemical society, publishing peer-reviewed journals and coordinating chemistry research and standards across the country. | La sociedad química nacional de China, editora de revistas arbitradas y coordinadora de la investigación y los estándares químicos en el país.
+- [Compound Interest](https://www.compoundchem.com/) | A well-regarded science communication site using clear infographics to explain the chemistry behind everyday substances and phenomena. | Un reconocido sitio de divulgación científica que usa infografías claras para explicar la química detrás de sustancias y fenómenos cotidianos.
+- [Crystallography Open Database (COD)](http://www.crystallography.net/cod/) | A free, open-access database of crystal structures for organic, inorganic, and mineral compounds. | Una base de datos gratuita y de acceso abierto de estructuras cristalinas de compuestos orgánicos, inorgánicos y minerales.
+- [European Chemical Society (EuChemS)](https://www.euchems.eu/) | An umbrella organization representing chemical societies across Europe, promoting chemistry research, education, and policy. | Una organización paraguas que representa a las sociedades químicas de Europa, y promueve la investigación, la educación y las políticas en química.
+- [Gesellschaft Deutscher Chemiker (GDCh)](https://www.gdch.de/) | The German Chemical Society, one of Europe's largest chemistry organizations, publisher of Angewandte Chemie and other major journals. | La Sociedad Química Alemana, una de las mayores organizaciones de química de Europa, editora de Angewandte Chemie y otras revistas de referencia.
+- [International Union of Pure and Applied Chemistry (IUPAC)](https://iupac.org/) | The global authority on chemical nomenclature, terminology, standardized methods, and atomic weights. | La autoridad mundial en nomenclatura química, terminología, métodos normalizados y pesos atómicos.
+- [Journal of the American Chemical Society (JACS)](https://pubs.acs.org/journal/jacsat) | One of the oldest and most cited chemistry journals in the world, publishing original research across all chemistry subfields. | Una de las revistas de química más antiguas y citadas del mundo, que publica investigación original en todas las subdisciplinas de la química.
+- [LibreTexts Chemistry](https://chem.libretexts.org/) | A large, freely accessible collection of open chemistry textbooks and teaching materials, widely used in higher education. | Una amplia colección gratuita de libros de texto y materiales didácticos abiertos de química, muy utilizada en la educación superior.
+- [NIST Chemistry WebBook](https://webbook.nist.gov/chemistry/) | A free database from the U.S. National Institute of Standards and Technology, offering thermochemical, spectral, and physical property data for thousands of compounds. | Una base de datos gratuita del Instituto Nacional de Normas y Tecnología de EE. UU., con datos termoquímicos, espectrales y de propiedades físicas de miles de compuestos.
+- [Nature Chemistry](https://www.nature.com/nchem/) | A leading peer-reviewed journal from the Nature portfolio, covering the full breadth of chemical research. | Una destacada revista arbitrada del grupo Nature que cubre toda la amplitud de la investigación química.
+- [Organic Chemistry Portal](https://www.organic-chemistry.org/) | A widely used reference site for organic chemists, with reaction guides, named reactions, and links to the recent literature. | Un sitio de referencia muy utilizado por químicos orgánicos, con guías de reacciones, reacciones con nombre propio y enlaces a la literatura reciente.
+- [Organic Syntheses](https://www.orgsyn.org/) | A long-running, peer-reviewed collection of checked and verified procedures for the synthesis of organic compounds. | Una colección arbitrada y de larga trayectoria de procedimientos comprobados y verificados para la síntesis de compuestos orgánicos.
+- [Protein Data Bank (PDB / RCSB)](https://www.rcsb.org/) | The global repository for 3D structural data of proteins, nucleic acids, and other biological macromolecules. | El repositorio mundial de datos estructurales en 3D de proteínas, ácidos nucleicos y otras macromoléculas biológicas.
+- [PubChem (NIH/NCBI)](https://pubchem.ncbi.nlm.nih.gov/) | A free, open chemistry database maintained by the U.S. National Institutes of Health, covering the properties and biological activities of millions of compounds. | Una base de datos química gratuita y abierta mantenida por los Institutos Nacionales de Salud de EE. UU., con propiedades y actividades biológicas de millones de compuestos.
+- [Royal Society of Chemistry (RSC)](https://www.rsc.org/) | The UK's leading chemistry organization, publishing major journals, maintaining databases, and supporting chemistry education and research. | La principal organización de química del Reino Unido, editora de revistas de referencia, mantenedora de bases de datos y promotora de la educación e investigación química.
+- [Royal Society of Chemistry Periodic Table](https://www.rsc.org/periodic-table) | An interactive, richly detailed periodic table maintained by the RSC, with data, history, and podcasts for every element. | Una tabla periódica interactiva y muy detallada, mantenida por la RSC, con datos, historia y podcasts sobre cada elemento.
+- [Sigma-Aldrich (Merck)](https://www.sigmaaldrich.com/) | A major supplier of laboratory chemicals whose product catalogue and technical documents are widely used as a chemical reference resource. | Un importante proveedor de reactivos de laboratorio cuyo catálogo de productos y documentación técnica se usa ampliamente como recurso de referencia química.
+- [Société Chimique de France (SCF)](https://www.societechimiquedefrance.fr/) | France's national chemical society, promoting chemistry research, education, and public engagement. | La sociedad química nacional de Francia, que promueve la investigación, la educación y la divulgación de la química.
+- [WebElements](https://www.webelements.com/) | One of the most established online periodic tables, offering detailed physical, chemical, and historical data for every element. | Una de las tablas periódicas en línea más consolidadas, con datos físicos, químicos e históricos detallados de cada elemento.
 
 ## chess
 
 ## cinema
 
-- [IMDB](https://www.imdb.com/) | 
-
-- [TSPDT](https://theyshootpictures.com/) | 
+- [Academy Film Archive](https://www.oscars.org/film-archive) | The film preservation archive of the Academy of Motion Picture Arts and Sciences, safeguarding tens of thousands of films and related materials. | El archivo de preservación fílmica de la Academia de Artes y Ciencias Cinematográficas, que resguarda decenas de miles de películas y materiales relacionados.
+- [Academy of Motion Picture Arts and Sciences (Oscars)](https://www.oscars.org/) | The organization behind the Academy Awards, also engaged in film preservation, education, and the operation of the Academy Museum. | La organización responsable de los premios Óscar, también dedicada a la preservación fílmica, la educación y la gestión del Academy Museum.
+- [American Film Institute (AFI)](https://www.afi.com/) | A U.S. national institute dedicated to film preservation, education, and the celebration of American cinematic achievement, known for its influential "100 Years" lists. | Un instituto nacional estadounidense dedicado a la preservación, la educación y la celebración del cine estadounidense, conocido por sus influyentes listas "100 Years".
+- [Berlin International Film Festival (Berlinale)](https://www.berlinale.de/) | One of the "Big Three" European film festivals, alongside Cannes and Venice, known for its competitive Golden Bear award. | Uno de los tres grandes festivales de cine europeos, junto a Cannes y Venecia, conocido por su premio competitivo del Oso de Oro.
+- [Box Office Mojo](https://www.boxofficemojo.com/) | An IMDb-owned site tracking box office revenue data for films worldwide, widely cited in industry and journalism. | Un sitio propiedad de IMDb que registra datos de recaudación de taquilla de películas de todo el mundo, muy citado en la industria y el periodismo.
+- [British Film Institute (BFI)](https://www.bfi.org.uk/) | The UK's leading film culture organization, running the BFI National Archive, funding British cinema, and publishing Sight and Sound magazine. | La principal organización de cultura cinematográfica del Reino Unido, que gestiona el BFI National Archive, financia el cine británico y publica la revista Sight and Sound.
+- [Cahiers du Cinéma](https://www.cahiersducinema.com/) | The historic and influential French film magazine that shaped auteur theory and launched the careers of several New Wave directors. | La histórica e influyente revista francesa de cine que dio forma a la teoría del autor y lanzó la carrera de varios directores de la Nouvelle Vague.
+- [Cannes Film Festival](https://www.festival-cannes.com/) | One of the world's most prestigious film festivals, awarding the Palme d'Or and serving as a major launchpad for international cinema. | Uno de los festivales de cine más prestigiosos del mundo, que otorga la Palma de Oro y funciona como una gran plataforma de lanzamiento para el cine internacional.
+- [Cinémathèque française](https://www.cinematheque.fr/) | A major French film archive and museum in Paris, preserving and screening a vast collection of world cinema. | Un importante archivo y museo cinematográfico francés en París, que preserva y proyecta una vasta colección de cine mundial.
+- [FilmAffinity](https://www.filmaffinity.com/) | A widely used Spanish-language film database and rating platform, especially popular across Spain and Latin America. | Una base de datos y plataforma de calificación de películas en español muy utilizada, especialmente popular en España y América Latina.
+- [Film Comment](https://www.filmcomment.com/) | The magazine of the Film at Lincoln Center, offering serious film criticism and coverage of world cinema since 1962. | La revista del Film at Lincoln Center, con crítica cinematográfica seria y cobertura del cine mundial desde 1962.
+- [Internet Archive – Moving Image Archive](https://archive.org/details/movies) | A vast, free digital collection of films, including many public-domain classics, newsreels, and archival footage. | Una vasta colección digital gratuita de películas, incluyendo numerosos clásicos de dominio público, noticieros y material de archivo.
+- [Internet Movie Database (IMDb)](https://www.imdb.com/) | The world's largest and most widely used online database of films, television, and industry professionals, with ratings, credits, and reviews. | La base de datos en línea de cine, televisión y profesionales de la industria más grande y utilizada del mundo, con calificaciones, créditos y reseñas.
+- [Kinopoisk](https://www.kinopoisk.ru/) | Russia's leading film database and streaming platform, the most widely used movie reference site in the Russian-speaking world. | La principal base de datos y plataforma de streaming de cine de Rusia, el sitio de referencia cinematográfica más utilizado en el mundo de habla rusa.
+- [Letterboxd](https://letterboxd.com/) | A social cataloguing and reviewing platform for film enthusiasts, widely used by cinephiles to track and discuss what they watch. | Una plataforma social de catalogación y reseñas para aficionados al cine, muy utilizada por cinéfilos para registrar y comentar lo que ven.
+- [Metacritic](https://www.metacritic.com/) | An aggregator that compiles and weights critic reviews of films into a single "Metascore," widely referenced in the industry. | Un agregador que compila y pondera las reseñas de críticos de cine en un único "Metascore", ampliamente referenciado en la industria.
+- [MUBI](https://mubi.com/) | A curated streaming platform and film magazine focused on arthouse, classic, and international cinema, valued for its editorial selection. | Una plataforma de streaming curada y revista de cine centrada en el cine de autor, clásico e internacional, valorada por su selección editorial.
+- [Rotten Tomatoes](https://www.rottentomatoes.com/) | A widely used review-aggregation site producing the well-known "Tomatometer" score based on collected critic and audience reviews. | Un sitio de agregación de reseñas muy utilizado que produce el conocido "Tomatómetro", basado en reseñas recopiladas de crítica y público.
+- [Senses of Cinema](https://www.sensesofcinema.com/) | An Australian-based online academic film journal offering in-depth essays, director profiles, and festival reports. | Una revista académica de cine en línea con sede en Australia, con ensayos en profundidad, perfiles de directores y crónicas de festivales.
+- [Sight and Sound](https://www.bfi.org.uk/sight-and-sound) | The BFI's flagship film magazine, publisher of the influential decennial "Greatest Films of All Time" critics' poll. | La revista insignia del BFI, editora de la influyente encuesta decenal de críticos "Greatest Films of All Time".
+- [Sundance Institute](https://www.sundance.org/) | The organization behind the Sundance Film Festival, a leading platform for independent American and international cinema. | La organización responsable del Festival de Sundance, una plataforma de referencia para el cine independiente estadounidense e internacional.
+- [The Criterion Collection](https://www.criterion.com/) | A highly respected distributor of classic and contemporary films, known for its meticulous restorations and scholarly supplements. | Una distribuidora muy respetada de cine clásico y contemporáneo, conocida por sus restauraciones meticulosas y materiales complementarios de carácter académico.
+- [The Film Foundation](https://www.film-foundation.org/) | A non-profit founded by Martin Scorsese dedicated to film preservation and restoration around the world. | Una organización sin fines de lucro fundada por Martin Scorsese dedicada a la preservación y restauración de películas en todo el mundo.
+- [The Numbers](https://www.the-numbers.com/) | An independent box office data and film industry analysis site, offering detailed financial data on films. | Un sitio independiente de datos de taquilla y análisis de la industria cinematográfica, con datos financieros detallados sobre películas.
+- [They Shoot Pictures, Don't They? (TSPDT)](https://www.theyshootpictures.com/) | A long-running project aggregating hundreds of critics' and directors' "best films" lists into a definitive ranked canon of world cinema. | Un proyecto de larga trayectoria que reúne cientos de listas de "mejores películas" de críticos y directores en un canon clasificado y definitivo del cine mundial.
+- [Turner Classic Movies (TCM)](https://www.tcm.com/) | A leading classic-film cable network and website offering film history, curated screenings, and archival articles. | Una destacada cadena y sitio web de cine clásico, con historia del cine, proyecciones curadas y artículos de archivo.
+- [UCLA Film & Television Archive](https://www.cinema.ucla.edu/) | One of the largest university-based media archives in the world, dedicated to preserving American film and television heritage. | Uno de los mayores archivos audiovisuales universitarios del mundo, dedicado a preservar el patrimonio cinematográfico y televisivo estadounidense.
+- [U.S. National Film Registry (Library of Congress)](https://www.loc.gov/programs/national-film-preservation-board/film-registry/) | The Library of Congress's official list of films selected annually for preservation due to their cultural, historic, or aesthetic significance. | La lista oficial de la Biblioteca del Congreso de películas seleccionadas anualmente para su preservación por su relevancia cultural, histórica o estética.
+- [Venice Film Festival (La Biennale di Venezia)](https://www.labiennale.org/en/cinema) | The world's oldest film festival, awarding the Golden Lion and considered one of the most prestigious events in international cinema. | El festival de cine más antiguo del mundo, que otorga el León de Oro y se considera uno de los eventos más prestigiosos del cine internacional.
 
 ## dictionaries 
 
 ### multiple
+- [Logeion](https://logeion.uchicago.edu/) | Search engine that queries all major Greek and Latin dictionaries (Liddell-Scott-Jones, Lewis & Short, and more) simultaneously | Motor de búsqueda que consulta a la vez todos los grandes diccionarios de griego y latín (Liddell-Scott-Jones, Lewis & Short, entre otros)
+- [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) | Classical digital library from Tufts University with searchable Greek and Latin dictionaries, texts, and morphological tools | Biblioteca digital clásica de la Universidad de Tufts con diccionarios de griego y latín consultables, textos y herramientas morfológicas
+- [Wiktionary](https://www.wiktionary.org/) | Collaborative multilingual dictionary covering thousands of languages, maintained by the Wikimedia Foundation | Diccionario multilingüe colaborativo que cubre miles de idiomas, mantenido por la Fundación Wikimedia
+- [Glosbe](https://glosbe.com/) | Multilingual dictionary and translation memory built from real bilingual texts, useful for uncommon language pairs | Diccionario multilingüe y memoria de traducción basada en textos bilingües reales, útil para combinaciones de idiomas poco comunes
 
-- [Logeion](https://logeion.uchicago.edu/) | 
-- [Wiktionary](https://www.wiktionary.org/) | 
+### spanish
+- [RAE - Diccionario de la lengua española](https://dle.rae.es/) | Official dictionary of the Royal Spanish Academy, the standard reference for the Spanish language | Diccionario oficial de la Real Academia Española, la referencia estándar de la lengua española
 
 ### german
-- [Duden](https://www.duden.de/) | 
+- [Duden](https://www.duden.de/) | The most authoritative reference dictionary for standard German, with spelling, grammar, and usage notes | El diccionario de referencia más autorizado del alemán estándar, con ortografía, gramática y notas de uso
+- [DWDS](https://www.dwds.de/) | Digital Dictionary of the German Language from the Berlin-Brandenburg Academy of Sciences, with historical corpus data | Diccionario digital del alemán de la Academia de Ciencias de Berlín-Brandeburgo, con datos de corpus histórico
 
 ### italian
-- [Treccani](https://www.treccani.it/vocabolario/) | 
+- [Treccani](https://www.treccani.it/vocabolario/) | Dictionary published by the prestigious Treccani encyclopedic institute, a standard reference for Italian | Diccionario del prestigioso instituto enciclopédico Treccani, referencia estándar del italiano
+- [Sabatini Coletti](https://dizionari.corriere.it/dizionario_italiano/) | Highly regarded Italian dictionary known for its detailed grammatical and syntactic information, hosted by Corriere della Sera | Diccionario italiano muy valorado por su detallada información gramatical y sintáctica, alojado por el Corriere della Sera
 
 ### russian
-- [Gramota](https://gramota.ru/) |
+- [Gramota.ru](https://gramota.ru/) | Official Russian-language portal hosting several authoritative dictionaries, including Kuznetsov's Big Explanatory Dictionary | Portal oficial de la lengua rusa que aloja varios diccionarios de referencia, incluido el Gran Diccionario Explicativo de Kuznetsov
 
+### french
+- [Larousse](https://www.larousse.fr/dictionnaires/francais) | Classic French dictionary with definitions, synonyms, and example sentences, from the renowned Larousse publisher | Diccionario francés clásico con definiciones, sinónimos y ejemplos, de la reconocida editorial Larousse
+- [Le Robert](https://dictionnaire.lerobert.com/) | Authoritative French dictionary known for detailed definitions, etymology, and regularly updated content | Diccionario francés de referencia, conocido por sus definiciones detalladas, etimología y actualización constante
+- [CNRTL](https://www.cnrtl.fr/) | Comprehensive academic resource combining the Trésor de la langue française with etymology, synonyms, and more | Recurso académico integral que combina el Trésor de la langue française con etimología, sinónimos y más
+
+### portuguese
+- [Priberam](https://dicionario.priberam.org/) | The most accessed online Portuguese dictionary, covering both European and Brazilian variants | El diccionario de portugués en línea más consultado, con las variantes europea y brasileña
+- [Infopédia](https://www.infopedia.pt/) | Large lexicographic database from Porto Editora, with dictionaries, encyclopedic articles, and multiple languages | Amplia base lexicográfica de Porto Editora, con diccionarios, artículos enciclopédicos y varios idiomas
+
+### polish
+- [Słownik Języka Polskiego PWN](https://sjp.pwn.pl/) | Standard Polish dictionary from the major academic publisher PWN | Diccionario estándar del polaco de la editorial académica PWN
+- [Wielki Słownik Języka Polskiego](https://wsjp.pl/) | Scholarly "Great Dictionary of Polish" produced by the Polish Academy of Sciences | "Gran Diccionario de la Lengua Polaca" académico, elaborado por la Academia Polaca de Ciencias
+
+### turkish
+- [TDK Sözlük](https://sozluk.gov.tr/) | Official dictionary of the Turkish Language Association (Türk Dil Kurumu), the standard reference for Turkish | Diccionario oficial de la Asociación de la Lengua Turca (Türk Dil Kurumu), la referencia estándar del turco
+
+### chinese
+- [Zdic (汉典)](https://www.zdic.net/) | Comprehensive Chinese-Chinese dictionary with classical dictionary entries, stroke order, and pronunciation | Diccionario chino-chino integral con entradas de diccionarios clásicos, orden de trazos y pronunciación
+- [MDBG](https://www.mdbg.net/chinese/dictionary) | Popular Chinese-English dictionary with handwriting recognition and simplified/traditional character support | Diccionario chino-inglés muy usado, con reconocimiento de escritura a mano y soporte para caracteres simplificados y tradicionales
+
+### japanese
+- [Jisho](https://jisho.org/) | Widely used Japanese-English dictionary with kanji search, example sentences, and grammar lookup | Diccionario japonés-inglés muy usado, con búsqueda de kanji, frases de ejemplo y consultas de gramática
+- [Kotobank](https://kotobank.jp/) | Japanese-language encyclopedia and dictionary aggregator pulling from multiple published dictionaries | Agregador japonés de enciclopedias y diccionarios que reúne varias obras publicadas
+
+### korean
+- [Naver Dictionary](https://dict.naver.com/) | South Korea's most popular dictionary platform, covering Korean and dozens of bilingual pairs | Plataforma de diccionarios más popular de Corea del Sur, con coreano y decenas de combinaciones bilingües
+- [표준국어대사전 (Standard Korean Dictionary)](https://stdict.korean.go.kr/) | Official standard dictionary published by South Korea's National Institute of Korean Language | Diccionario estándar oficial publicado por el Instituto Nacional de la Lengua Coreana de Corea del Sur
+
+### hindi
+- [Shabdkosh](https://www.shabdkosh.com/) | Long-established, widely trusted English-Hindi dictionary with audio pronunciation and several other Indian languages | Diccionario inglés-hindi consolidado y de gran confianza, con pronunciación en audio y varios idiomas de la India
+
+### sanskrit
+- [Cologne Digital Sanskrit Dictionaries](https://www.sanskrit-lexicon.uni-koeln.de/) | Academic project from the University of Cologne digitizing 43 Sanskrit dictionaries, including Monier-Williams | Proyecto académico de la Universidad de Colonia que digitaliza 43 diccionarios de sánscrito, incluido el de Monier-Williams
+
+### arabic
+- [Almaany](https://www.almaany.com/) | Extensive Arabic dictionary combining classical sources (Lisan al-Arab, al-Qamus al-Muhit) with modern usage | Amplio diccionario árabe que combina fuentes clásicas (Lisan al-Arab, al-Qamus al-Muhit) con el uso moderno
+
+### hebrew
+- [Morfix](https://www.morfix.co.il/) | Leading free Hebrew-English dictionary with nikud (vowel points), inflections, and example sentences | Diccionario hebreo-inglés gratuito y líder, con nicud (puntos vocálicos), flexiones y frases de ejemplo
+- [Milog](https://milog.co.il/) | Hebrew-Hebrew dictionary listing full inflected word forms, useful for advanced learners | Diccionario hebreo-hebreo que detalla todas las formas flexionadas, útil para niveles avanzados
+- [Academia de la Lengua Hebrea](https://hebrew-academy.org.il/) | Israel's official language authority, which rules on standard usage, spelling, and new terminology | Autoridad lingüística oficial de Israel, que determina el uso estándar, la ortografía y la terminología nueva
+
+### persian
+- [Vajehyab](https://www.vajehyab.com/) | Comprehensive Persian lexicon search engine covering Dehkhoda, Moein, Amid, and other major dictionaries | Buscador léxico persa integral que abarca Dehkhoda, Moein, Amid y otros grandes diccionarios
+
+### greek
+- [Λεξικό της Κοινής Νεοελληνικής](https://pyli.greeklanguage.gr/nea-elliniki-glossa/lexiko-tis-koinis-neoellinikis-idryma-manoli-triantafyllidi) | Standard monolingual dictionary of Modern Greek, compiled by the Institute of Modern Greek Studies (Manolis Triantafyllidis Foundation) | Diccionario monolingüe estándar del griego moderno, elaborado por el Instituto de Estudios Neogriegos (Fundación Manolis Triantafyllidis)
+
+### english
+- [Merriam-Webster](https://www.merriam-webster.com/) | The leading American English dictionary, with etymology, usage notes, and a historical thesaurus | El principal diccionario del inglés americano, con etimología, notas de uso y un tesauro histórico
+- [Cambridge Dictionary](https://dictionary.cambridge.org/) | Free dictionary from Cambridge University Press covering British and American English, with example sentences | Diccionario gratuito de Cambridge University Press que cubre inglés británico y americano, con frases de ejemplo
+
+### indonesian
+- [KBBI Daring](https://kbbi.kemdikbud.go.id/) | Official Indonesian dictionary published by Indonesia's Language Development and Cultivation Agency | Diccionario oficial del indonesio, publicado por la Agencia de Desarrollo y Cultivo de la Lengua de Indonesia
+
+### bengali
+- [Samsad Bengali-English Dictionary (DSAL)](https://dsal.uchicago.edu/dictionaries/biswas-bengali/) | Standard academic Bengali-English dictionary, digitized by the University of Chicago's Digital Dictionaries of South Asia project | Diccionario académico estándar bengalí-inglés, digitalizado por el proyecto Digital Dictionaries of South Asia de la Universidad de Chicago
+
+### urdu
+- [Rekhta Dictionary](https://www.rekhtadictionary.com/) | Trilingual Urdu dictionary (Urdu-Hindi-English) from the respected Rekhta Foundation, dedicated to preserving Urdu | Diccionario trilingüe de urdu (urdu-hindi-inglés) de la reconocida Fundación Rekhta, dedicada a preservar el urdu
 ## geography
 
 
@@ -82,6 +228,35 @@
 - [World History Encyclopedia](https://www.worldhistory.org/) | Their own words: "World History Encyclopedia is a non-profit organisation that publishes free, high-quality historical content to advance historical literacy and improve history education worldwide. We believe that deeper knowledge of our interconnected human past creates curious, open-minded, and democratic societies."
 
 ## psychology
+
+
+### professional organizations
+- [APA (American Psychological Association)](https://www.apa.org/) | The world's largest scientific and professional organization representing psychology, based in the US | La organización científica y profesional de psicología más grande del mundo, con sede en Estados Unidos
+- [APS (Association for Psychological Science)](https://www.psychologicalscience.org/) | Leading international organization dedicated to advancing scientific psychology across countries and disciplines | Principal organización internacional dedicada a impulsar la psicología científica a través de países y disciplinas
+- [BPS (British Psychological Society)](https://www.bps.org.uk/) | The UK's official body for psychology, setting standards for professional education, research, and ethics | El organismo oficial de psicología del Reino Unido, que fija los estándares de formación profesional, investigación y ética
+- [Consejo General de la Psicología de España (COP)](https://www.cop.es/) | Spain's official governing body for the psychology profession, overseeing regional colleges and professional standards | Organismo oficial que rige la profesión de psicología en España, con autoridad sobre los colegios regionales y los estándares profesionales
+
+### reference
+- [APA Dictionary of Psychology](https://dictionary.apa.org/) | The APA's own official dictionary, with over 25,000 authoritative, regularly updated terms across all subfields | Diccionario oficial de la APA, con más de 25.000 términos autorizados y actualizados de todas las subáreas de la psicología
+
+### research & databases
+- [APA PsycNet](https://psycnet.apa.org/) | APA's platform for its own journals and the PsycINFO bibliographic database, the standard index for psychological literature | Plataforma de la APA para sus propias revistas y la base bibliográfica PsycINFO, el índice estándar de la literatura psicológica
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) | The US National Library of Medicine's free search engine for biomedical and life-science literature, including most psychology research | Motor de búsqueda gratuito de la Biblioteca Nacional de Medicina de EE. UU. para literatura biomédica, que incluye la mayor parte de la investigación en psicología
+- [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology) | Peer-reviewed, fully open-access journal covering the full range of psychology, widely cited and continuously updated | Revista revisada por pares y de acceso abierto que cubre toda la psicología, muy citada y actualizada de forma continua
+
+### official mental health bodies
+- [NIMH (National Institute of Mental Health)](https://www.nimh.nih.gov/) | The lead US federal agency for mental health research, funding and publishing evidence-based findings on mental disorders | Principal agencia federal de EE. UU. para la investigación en salud mental, que financia y publica hallazgos basados en evidencia
+- [WHO - Mental Health](https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response) | The World Health Organization's global overview of mental health data, policy, and strategy, updated regularly | Panorama global de la Organización Mundial de la Salud sobre datos, políticas y estrategias de salud mental, actualizado con regularidad
+
+### quality science communication
+- [BPS Research Digest](https://www.bps.org.uk/research-digest) | The British Psychological Society's own digest, summarizing new peer-reviewed research with a critical eye on methodology | Boletín de la propia British Psychological Society, que resume investigación revisada por pares con mirada crítica sobre la metodología
+- [Scientific American - Mind & Brain](https://www.scientificamerican.com/mind-and-brain/) | Scientific American's psychology and neuroscience section, translating research for a general but well-informed audience | Sección de psicología y neurociencia de Scientific American, que traduce la investigación para un público general pero bien informado
+- [Simply Psychology](https://www.simplypsychology.org/) | Widely used educational resource with clear, well-referenced overviews of psychological theories, studies, and concepts | Recurso educativo muy usado con explicaciones claras y bien referenciadas de teorías, estudios y conceptos psicológicos
+- [Verywell Mind](https://www.verywellmind.com/) | Popular mental-health and wellness site with articles reviewed by a licensed clinical review board | Sitio popular de salud mental y bienestar, con artículos revisados por un consejo clínico de profesionales licenciados
+
+- [Infocop](https://www.infocop.es/) | Official digital magazine of Spain's Consejo General de la Psicología, covering research, practice, and news since 2004 | Revista digital oficial del Consejo General de la Psicología de España, con investigación, práctica profesional y noticias desde 2004
+
+
 
 ## language
 
