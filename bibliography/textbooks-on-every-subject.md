@@ -10,11 +10,19 @@
 
 ## astronomy
 
+### astrophysics
+
+- An introduction to modern astrophysics | Carroll, B. W., & Ostlie, D. A. (2017). An introduction to modern astrophysics (2nd ed.). Cambridge University Press.
+
 ## biology
+
+### general
+
+ - Campbell's biology | Urry, L. A., Minorsky, P. V., Hull, K. L., & Orr, B. R. (2026). Campbell's biology (13th ed.). Pearson.
 
 ## chemistry
 
-- Brown, T. E., LeMay, H. E., Bursten, B. E., Murphy, C. J., Woodward, P. M., & Stoltzfus, M. E. (2023). Chemistry: The Central Science (15th ed.). Pearson
+- Chemistry: The Central Science | Brown, T. E., LeMay, H. E., Bursten, B. E., Murphy, C. J., Woodward, P. M., & Stoltzfus, M. E. (2023). Chemistry: The Central Science (15th ed.). Pearson
 
 ## chess
 
@@ -22,7 +30,12 @@
 
 ### general
 
+- The great conversation: A historical introduction to philosophy | Melchert, N., & Morrow, D. R. (2022). The great conversation: A historical introduction to philosophy (9th ed.). Oxford University Press.
+
 ### history of philosophy
+
+- A History of Philosophy | Copleston, F. (1946–1975). A history of philosophy (Vols. 1–9). Newman Press.
+- History of Western Philosophy | Russell, B. (2004). History of Western Philosophy. Routledge
 
 ### metaphysics
 
