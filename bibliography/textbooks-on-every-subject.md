@@ -57,7 +57,7 @@ McGee, H. (2004). On food and cooking: The science and lore of the kitchen. Scri
 
 ### anatomy
 
-- Dalley, A. F., II, & Agur, A. M. R. (2026). Moore’s clinically oriented anatomy (10th ed.). Wolters Kluwer.
+- Moore’s clinically oriented anatomy | Dalley, A. F., II, & Agur, A. M. R. (2026). Moore’s clinically oriented anatomy (10th ed.). Wolters Kluwer.
 
 
 ### histology
@@ -66,7 +66,7 @@ McGee, H. (2004). On food and cooking: The science and lore of the kitchen. Scri
 
 ### pathology
 
-- Kumar, V., Abbas, A. K., Aster, J. C., Debnath, J., & Das, A. (2025). Robbins, Cotran & Kumar pathologic basis of disease (11th ed.). Elsevier.
+- Robbins, Cotran & Kumar pathologic basis of disease | Kumar, V., Abbas, A. K., Aster, J. C., Debnath, J., & Das, A. (2025). Robbins, Cotran & Kumar pathologic basis of disease (11th ed.). Elsevier.
 
 ### physiology
 - Ganong’s review of medical physiology | Barrett, K. E., Barman, S. M., Brooks, H. L., & Yuan, J. X.-J. (2025). Ganong’s review of medical physiology (27th ed.). McGraw Hill.
@@ -74,11 +74,71 @@ McGee, H. (2004). On food and cooking: The science and lore of the kitchen. Scri
 
 ## psychology
 
+- Psychology | Myers, D. G., DeWall, C. N., & Gruber, J. (2024). Psychology (14th ed.). Worth Publishers.
+
+
 ## physics
 
 ### general 
 
 - Concepts of physics | Verma, H. C. (2026). Concepts of physics (Vols. 1–2, rev. ed.). Bharati Bhawan.
+
+## religion
+
+### general
+
+### Abrahamic religions
+
+#### Christianity 
+
+
+#### Islam
+
+#### Judaism
+
+### Apologetics
+### Indian religions
+
+#### Buddhism 
+#### Hinduism
+#### Jainism
+#### Sikhism
+
+### East Asian religions
+
+#### Chinese folk religion
+#### Confucianism
+#### Shinto
+#### Daoism
+#### I-Kuan Tao
+#### Caodaism
+#### Chondogyo
+#### Tenrikyo
+#### Oomoto
+
+### Other religions
+
+    African religions
+    Ancient Egyptian religion
+    Native American religions
+    Gnosticism
+    Occult
+    Esotericism
+    Mysticism
+    Spirituality
+    New religious movements
+    Sumerian religion
+    Zoroastrianism
+
+### Comparative religion
+### Mythology and Folklore
+### Theism
+### Irreligion
+
+    Agnosticism
+    Atheism (outline) and religious humanism
+    Nontheism
+
 
 ## linguistics
 
